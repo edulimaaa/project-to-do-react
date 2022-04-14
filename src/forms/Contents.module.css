@@ -1,0 +1,12 @@
+.contents {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.308);
+  padding: 18px;
+  gap: 3px;
+  border-radius: 10px;
+  margin: 0 15px;
+  margin-top: 15px;
+  border:  2px solid black;
+  width: 65em;
+}
+ 

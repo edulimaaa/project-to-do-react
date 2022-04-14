@@ -1,0 +1,35 @@
+.side {
+  background-color: #918f25;
+  width: 250px;
+  color: #fffff1;
+  height: 68vh auto;
+  -webkit-border-bottom-right-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  text-align: center;
+}
+
+.side h2 {
+  margin-bottom: 50px;
+}
+
+.side li {
+  color: #1c57fd;
+  margin-top: 15px;
+  bottom: 30px;
+  list-style: none;
+}
+
+.side a {
+  text-decoration: none;
+  margin-right: 40px;
+}
+
+.side a:hover{
+  background-color: aqua;
+  border: solid #1c57fd;
+  padding: 0 60px;
+}
